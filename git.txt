@@ -1,7 +1,6 @@
-なんか書けって言われたので書きましたけど何か？
 test
 sub
 
-fack
+rebase_test
 
-章末課題
+test1
